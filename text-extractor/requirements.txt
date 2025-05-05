@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+opencv-python
+numpy
+Pillow
+python-docx
+fpdf
+requests
+easyocr
